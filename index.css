@@ -1,1 +1,140 @@
+#img1{
+    
+width:98%;
 
+
+}
+
+#header {
+      text-align: center;
+      background-color:#00004c;
+      background-size: cover;
+      color: white;
+    }
+#head{
+    text-align:center;
+    color:navy;
+    background-color:#ffd700;
+    border: 5px white dotted;
+    border-radius: 5px;
+    background:url('http://pics2.city-data.com/city/maps2/cm6185.png');
+    background-size:200px;
+    }
+.b{
+      color: white;
+    }
+
+#k {
+      font-size: 70px;
+      font-family:'Josefin Slab', serif;
+        padding: 5px;
+        
+    }
+#i {
+    height:50%;
+    width:50%;
+      margin: 40px 0px 0px 0px;
+      border: 7px solid white;
+      border-radius: 20px;
+    }
+  
+   
+#link1 {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+       font-size:25px;
+    }
+#link2{
+    display: inline;
+      padding: 0px 10px 0px 10px;
+        font-size:25px;
+    }
+#link3{
+    display: inline;
+      padding: 0px 10px 0px 10px;
+       font-size:25px;
+       
+    }
+ #c{
+       background-color:#ffd700;
+       
+       }
+#a {
+      border-radius:50px;
+      font-family: 'Indie Flower', cursive;
+        background-color:#ffd700;
+        font-size:20px;
+     }
+    
+@media (max-width: 500px) {
+     }
+#h{
+        text-align:center;
+        color:#00004c;
+        }
+#p{
+        font-family: 'Indie Flower', cursive;
+        text-align:center;
+        color:#00004c;
+        background-color:#ffd700;
+            }
+    
+#u{
+        font-size:20px;
+        font-family: 'Indie Flower', cursive;
+        padding: 10px;
+      background: #00004c;
+      text-align:center;
+        }
+#heading{
+    text-align:center;
+    color:navy;
+    background-color:#ffd700;
+    border:5px white dotted;
+    border-radius:5px;
+    font-family: 'Josefin Slab', serif;
+}
+body{
+    background-color:#00004c;
+    width:100%;
+}
+h2{
+    color:#ffd700; 
+    font-family: 'Josefin Slab', sans-serif;
+
+}
+.Sports{
+ color:white;
+}
+.clubs{
+    color:white;
+    
+}
+ul{
+    font-family: 'Indie Flower', cursive;
+    list-style-type: none;
+}
+.sports{
+    width:33%;
+    float:left;
+    
+}
+#pic1{
+    height:333px;
+}
+/*Had to use pixels for this pic because % wouldn't work*/
+.clubs{
+    width:25%;
+    float: left;
+    padding:50px;
+}
+#yes{
+    text-align:center;
+}
+#no{
+    text-align:center;
+}
+.teachers{
+    width:33%;
+    float:left;
+    }
